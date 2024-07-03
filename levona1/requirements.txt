@@ -27,6 +27,7 @@ marshmallow-sqlalchemy==0.29.0
 mysql==0.0.3
 mysql-connector==2.2.9
 mysql-connector-python==8.2.0
+mysqlclient==2.1.1
 packaging==23.2
 platformdirs==3.5.3
 protobuf==4.21.12
