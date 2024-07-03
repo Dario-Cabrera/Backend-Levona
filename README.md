@@ -6,4 +6,4 @@ Integrantes:
 -Ringuelet Lisa
 -Cabrera Dario Ezequiel
 
-Se realizan las modificaciones para la conexion en el entorno local.
+Se realizan las modificaciones para la conexion en el entorno local. Se deploya el backend con PythonAnyWhere.
